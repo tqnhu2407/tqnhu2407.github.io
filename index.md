@@ -2,4 +2,6 @@
 layout: home
 ---
 
-Welcome to my corner of the internet. Check out my latest posts below!
+Master of Science in Japan but studied completely in English 🐧
+
+Tiny corner of AI things and hobbies ✨
